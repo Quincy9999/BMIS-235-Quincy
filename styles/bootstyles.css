@@ -1,0 +1,67 @@
+.titlefont {
+    font-size: 20px
+}
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+    border-bottom: solid 2px black;
+}
+.body1 {
+    top: 114px;
+    left: 114px;
+    right: 114px;
+    bottom: 39px;
+    padding-right: 5px;
+    border: solid 2px black;
+}
+
+.body2 {
+    top: 114px;
+    left: 114px;
+    right: 114px;
+    bottom: 39px;
+    padding-right: 5px;
+    border: solid 2px black;
+}
+
+.body3 {
+    top: 114px;
+    left: 114px;
+    right: 114px;
+    bottom: 39px;
+    padding-right: 5px;
+    border: solid 2px black;
+}
+.body4 {
+    top: 114px;
+    left: 114px;
+    right: 114px;
+    bottom: 39px;
+    padding-right: 5px;
+    border: solid 2px black;
+}
+
+.footer {
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+    font-size: 16px;
+    color: grey;
+    text-align: center;
+    padding-top: 15px;
+    position: relative;
+    border: solid 2px black;
+}
+
+body {
+    background-color: beige
+}
+
+h2 {
+    font-style: italic;
+    color: darkblue;
+}
